@@ -1,5 +1,5 @@
 {
-    "name": "pulkitjalan/geoip",
+    "name": "macromindonline/geoip",
     "description": "Geoip Wrapper with Laravel 4 & 5 Support",
     "homepage": "https://github.com/pulkitjalan/geoip",
     "keywords": ["geoip", "freegeoip", "ip-api", "maxmind", "telize"],
